@@ -1,0 +1,6 @@
+r,Alligator,Alligator,230.0,vatten,false,WRAAK
+f,Blåmes,BLABLA,1.0,false,true,Träd,kvitter
+d,Delfin,Delfini,300.0,Grå,false,ninini
+d,Zebra,Equus,400.0,vit och svart,false,knägg
+d,Männsika,Homo Sapiens,80.0,Vit,false,Efterbliven
+d,Katt,KITTY,5.0,Svart,false,Maow
